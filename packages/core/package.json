@@ -1,6 +1,6 @@
 {
   "name": "@ljj-cli/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ljj-cli core",
   "author": "lijunjun <11776174@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ljj-cli/utils": "^1.0.3"
+    "@ljj-cli/utils": "^1.0.5"
   },
   "publishConfig": {
     "access": "public"
