@@ -3,5 +3,7 @@
 module.exports = index;
 
 function index(a,b) {
-  return a + b
+  let c = a + b
+  return a + b + c
 }
+
