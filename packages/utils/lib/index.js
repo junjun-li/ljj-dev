@@ -2,6 +2,6 @@
 
 module.exports = index;
 
-function index() {
-    // TODO
+function index(a,b) {
+  return a + b
 }
