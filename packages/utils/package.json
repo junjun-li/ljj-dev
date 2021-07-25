@@ -1,6 +1,6 @@
 {
   "name": "@ljj-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "ljj-cli utils",
   "author": "lijunjun <11776174@qq.com>",
   "homepage": "",
@@ -15,5 +15,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
