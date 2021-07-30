@@ -2,9 +2,6 @@
   "name": "ljj-cli",
   "version": "1.0.3",
   "description": "",
-  "bin": {
-    "ljj": "bin/index.js"
-  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +10,6 @@
   "author": "JunJun.Li <11776174@qq.com>",
   "license": "ISC",
   "dependencies": {
-    "ljj-cli-lib": "^1.0.0"
   },
   "devDependencies": {
     "lerna": "^4.0.0"

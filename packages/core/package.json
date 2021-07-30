@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ljj-cli/utils": "^1.0.6"
+    "@ljj-cli/utils": "file:../utils"
   },
   "publishConfig": {
     "access": "public"
