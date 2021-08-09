@@ -6,12 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ljj": "core/cli/bin/index.js"
+  },
   "keywords": [],
   "author": "JunJun.Li <11776174@qq.com>",
   "license": "ISC",
-  "dependencies": {
-  },
   "devDependencies": {
+    "@ljj-cli/core": "^1.0.6",
     "lerna": "^4.0.0"
   }
 }
