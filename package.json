@@ -13,6 +13,7 @@
   "author": "JunJun.Li <11776174@qq.com>",
   "license": "ISC",
   "devDependencies": {
+    "@ljj-cli/cli": "^1.0.8",
     "@ljj-cli/core": "^1.0.6",
     "lerna": "^4.0.0"
   }

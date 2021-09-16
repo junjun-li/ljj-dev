@@ -33,7 +33,6 @@
     "url": "https://github.com/junjun-li/ljj-dev/issues"
   },
   "dependencies": {
-    "@ljj-cli/utils": "file:../../utils/utils",
     "import-local": "^3.0.2",
     "npmlog": "^5.0.0"
   }
